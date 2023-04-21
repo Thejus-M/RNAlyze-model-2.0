@@ -1,1 +1,13 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+non/combine.fasta filter=lfs diff=lfs merge=lfs -text
+non/gencode.v43.lncRNA_transcripts.fa filter=lfs diff=lfs merge=lfs -text
+non/Micromonas_pusilla_CCMP1545.fasta filter=lfs diff=lfs merge=lfs -text
+non/mRNA_sequencs.fa filter=lfs diff=lfs merge=lfs -text
+non/ncRNAs_features.tsv filter=lfs diff=lfs merge=lfs -text
+non/Galdieria_sulphuraria_lncrnas.fasta filter=lfs diff=lfs merge=lfs -text
+non/lncRNAs_PLncDB_features.tsv filter=lfs diff=lfs merge=lfs -text
+non/mRNA_features.tsv filter=lfs diff=lfs merge=lfs -text
+non/ncRNA_seqences.fa filter=lfs diff=lfs merge=lfs -text
+non/Physcomitrella_patens.fasta filter=lfs diff=lfs merge=lfs -text
+ncRNA_seqences.fa filter=lfs diff=lfs merge=lfs -text
+gencode.v43.pc_transcripts.fa filter=lfs diff=lfs merge=lfs -text
